@@ -8,3 +8,6 @@ ipython_config.py
 # Spyder project settings
 *.spyderproject
 *.spyproject
+
+# folders
+others/
