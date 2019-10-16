@@ -11,3 +11,7 @@ ipython_config.py
 
 # folders
 others/
+
+# dataset
+dataset/mnist_test.csv
+dataset/mnist_train.csv
