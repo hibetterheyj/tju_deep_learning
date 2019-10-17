@@ -16,4 +16,6 @@ others/
 dataset/mnist_test.csv
 dataset/mnist_train.csv
 dataset/cifar-10-python.tar.gz
+dataset/cifar/
 data/
+assignment/#3/data/
