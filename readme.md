@@ -1,4 +1,4 @@
-### Course repo for *Deep learning@Tongji Univ.* (optional)
+### Course repo for *Deep learning@Tongji Univ.* (Elective Course)
 
 ### 同济大学 - 深度学习（选修）
 
@@ -6,18 +6,18 @@ Three assignments as of 19.10.18, respectively
 
 #### Course info
 
-- Python basic
+- Python basics
 - Linear regression & Logistic regression
-- NN basic
+- NN basics
 - Convolutional neural network
 
 #### Assignments
 
-> Using nbviewer for better and faster rendering!
+> Using [nbviewer](https://nbviewer.jupyter.org/) for better and faster rendering!
 
-1. [Linear](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.1.ipynb) & [Logistic](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.2.ipynb) (multiple binary classifiers) regression
-2. [Logistic](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/softmax-mnist.ipynb) (softmax) regression & Fully connected neural [network](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/shallownn-mnist-torch.ipynb)
-3. Convolutional neural network implemented via [PyTorch](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/cifar-cnn.ipynb) & [Fastai](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/CIFAR-Fastai.ipynb)
+1. [**Linear**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.1.ipynb) & [**Logistic**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.2.ipynb) (multiple binary classifiers) regression
+2. [**Logistic**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/softmax-mnist.ipynb) (softmax) regression & Fully connected neural [**network**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/shallownn-mnist-torch.ipynb)
+3. Convolutional neural network implemented via [**PyTorch**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/cifar-cnn.ipynb) & [**Fastai**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/CIFAR-Fastai.ipynb)
 
 Weekly solution and codes are available in `*.ipynb`. Best wishes!
 
