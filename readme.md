@@ -17,7 +17,7 @@ Three assignments as of 19.10.18, respectively
 
 1. [**Linear**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.1.ipynb) & [**Logistic**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.2.ipynb) (multiple binary classifiers) regression
 2. [**Logistic**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/softmax-mnist.ipynb) (softmax) regression & Fully connected neural [**network**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/shallownn-mnist-torch.ipynb)
-3. Convolutional neural network implemented via [**PyTorch**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/cifar-cnn.ipynb) & [**Fastai**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/CIFAR-Fastai.ipynb)
+3. Convolutional neural network implemented via [**PyTorch**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/cifar-cnn.ipynb) & [**Fastai**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/cifar-Fastai.ipynb)
 
 Weekly solution and codes are available in `*.ipynb`. Best wishes!
 
