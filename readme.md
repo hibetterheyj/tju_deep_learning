@@ -19,21 +19,21 @@ Supervised by Professor, [Yin Wang](http://web.eecs.umich.edu/~yinw/)
 
 Using [nbviewer](https://nbviewer.jupyter.org/) for better and faster rendering!
 
-- Linear** & Logistic (multiple binary classifiers method) regression
+- (1) Linear & (2) Logistic (multiple binary classifiers method) regression
 
-[[link1](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.1.ipynb)], [[link2](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.2.ipynb)]
+[[notebook1](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.1.ipynb)], [[notebook2](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.2.ipynb)]
 
 - (1) Logistic (softmax method) regression & (2) Fully connected neural network
 
-[[link1](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/softmax-mnist.ipynb)], [[link2](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/shallownn-mnist-torch.ipynb)]
+[[notebook1](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/softmax-mnist.ipynb)], [[notebook2](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/shallownn-mnist-torch.ipynb)]
 
 - Convolutional neural network implemented via (1) PyTorch & (2) Fastai
 
-[[link1](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/cifar-cnn.ipynb)], [[link2](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/CIFAR-Fastai.ipynb)]
+[[notebook1](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/cifar-cnn.ipynb)], [[notebook2](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/CIFAR-Fastai.ipynb)]
 
 - Re-implemented one style transfer algorithm (MSG-Net) via PyTorch
 
-[[link](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%234/HYJ-Minimum-Pack/He-Yujie-msgnet.ipynb)]
+[[notebook](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%234/HYJ-Minimum-Pack/He-Yujie-msgnet.ipynb)]
 
 Weekly solution and codes are available in `*.ipynb`. Best wishes!
 
