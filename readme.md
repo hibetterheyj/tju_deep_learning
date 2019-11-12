@@ -12,14 +12,28 @@ Supervised by Professor, [Yin Wang](http://web.eecs.umich.edu/~yinw/)
 - Linear regression & Logistic regression
 - NN basics
 - Convolutional neural network
+- Object detection
+- Style transfer
 
 #### Assignments
 
 Using [nbviewer](https://nbviewer.jupyter.org/) for better and faster rendering!
 
-1. [**Linear**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.1.ipynb) & [**Logistic**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.2.ipynb) (multiple binary classifiers) regression
-2. [**Logistic**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/softmax-mnist.ipynb) (softmax) regression & Fully connected neural [**network**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/shallownn-mnist-torch.ipynb)
-3. Convolutional neural network implemented via [**PyTorch**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/cifar-cnn.ipynb) & [**Fastai**](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/CIFAR-Fastai.ipynb)
+- Linear** & Logistic (multiple binary classifiers method) regression
+
+[[link1](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.1.ipynb)], [[link2](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%231/assignment1.2.ipynb)]
+
+- (1) Logistic (softmax method) regression & (2) Fully connected neural network
+
+[[link1](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/softmax-mnist.ipynb)], [[link2](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%232/shallownn-mnist-torch.ipynb)]
+
+- Convolutional neural network implemented via (1) PyTorch & (2) Fastai
+
+[[link1](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/cifar-cnn.ipynb)], [[link2](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%233/CIFAR-Fastai.ipynb)]
+
+- Re-implemented one style transfer algorithm (MSG-Net) via PyTorch
+
+[[link](https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/assignment/%234/HYJ-Minimum-Pack/He-Yujie-msgnet.ipynb)]
 
 Weekly solution and codes are available in `*.ipynb`. Best wishes!
 
