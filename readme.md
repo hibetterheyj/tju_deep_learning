@@ -2,7 +2,7 @@
 
 ### 同济大学 - 深度学习（选修）
 
-Three assignments as of 19.10.18, respectively
+Final project and four assignments as of 20.01.09, respectively
 
 #### Course info
 
@@ -14,6 +14,19 @@ Supervised by Professor, [Yin Wang](http://web.eecs.umich.edu/~yinw/)
 - Convolutional neural network
 - Object detection
 - Style transfer
+- etc.
+
+---
+
+#### Final Project
+
+> Enhanced 3D Zonal Segmentation of the Prostate on MRI via Enhanced Weight-Standardization and Group-Normalization
+>
+> 基于的Weight-Standardization和Group-Normalization在前列腺MRI数据集上的三维区块分割
+
+In this final project, I utilized Weight Standardization (WS) as well as GroupNorm to accelerate neural networks training and improve overall segmentation results for 3D Zonal Segmentation of the Prostate on MRI images. WS is targeted at the micro-batch training setting where each GPU typically has only 1-2 images for training. The quantitative experiments have shown that UWG-Net can outperform the performances of 3D U-Net (baseline) with BN trained with small batch sizes with only two more lines of code. The effectiveness of WS is verified on the open-source Prostate Dataset, including 22 training cases and 10 testing cases. 
+
+---
 
 #### Assignments
 
